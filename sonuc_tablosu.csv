@@ -1,0 +1,57 @@
+﻿deney,kosul,olcut,deger
+hizalama,golge,"tx,ty (px)","+0.68,-0.76"
+hizalama,lamba,"tx,ty (px)","+0.91,+0.66"
+4,normal,shape,"(1706, 1512, 3)"
+4,normal,dtype,uint8
+4,normal,min,0
+4,normal,max,255
+4,normal,"RGB@nesne (hardal tulum)(820,970)","(117,85,10)"
+4,golge,"RGB@nesne (hardal tulum)(820,970)","(120,77,8)"
+4,lamba,"RGB@nesne (hardal tulum)(820,970)","(123,82,16)"
+4,normal,"RGB@kagit (beyaz A4)(800,1390)","(175,171,170)"
+4,golge,"RGB@kagit (beyaz A4)(800,1390)","(180,178,181)"
+4,lamba,"RGB@kagit (beyaz A4)(800,1390)","(176,157,151)"
+4,normal,"RGB@masa (ahsap)(200,1190)","(166,127,88)"
+4,golge,"RGB@masa (ahsap)(200,1190)","(107,66,34)"
+4,lamba,"RGB@masa (ahsap)(200,1190)","(172,120,81)"
+4-kontrol,normal,ort RGB tulum ROI,"(159.5,129.7,50.6)"
+4-kontrol,normal,medyan HSV tulum ROI,"(22,179,157)"
+4-kontrol,normal,ort RGB kagit,"(174.6,169.7,167.9)"
+4-kontrol,normal,medyan HSV kagit,"(16,21,172)"
+4-kontrol,normal,ort RGB masa sol,"(170.3,132.4,94.0)"
+4-kontrol,normal,medyan HSV masa sol,"(15,113,171)"
+4-kontrol,normal,ort RGB masa sag ust,"(181.3,161.8,131.6)"
+4-kontrol,normal,medyan HSV masa sag ust,"(18,69,183)"
+4-kontrol,golge,ort RGB tulum ROI,"(130.1,87.9,21.4)"
+4-kontrol,golge,medyan HSV tulum ROI,"(18,216,129)"
+4-kontrol,golge,ort RGB kagit,"(174.0,167.6,165.7)"
+4-kontrol,golge,medyan HSV kagit,"(15,32,171)"
+4-kontrol,golge,ort RGB masa sol,"(107.8,66.6,34.5)"
+4-kontrol,golge,medyan HSV masa sol,"(13,174,108)"
+4-kontrol,golge,ort RGB masa sag ust,"(198.4,175.6,145.9)"
+4-kontrol,golge,medyan HSV masa sag ust,"(17,68,200)"
+4-kontrol,lamba,ort RGB tulum ROI,"(160.3,118.7,47.0)"
+4-kontrol,lamba,medyan HSV tulum ROI,"(19,186,156)"
+4-kontrol,lamba,ort RGB kagit,"(177.2,156.8,150.4)"
+4-kontrol,lamba,medyan HSV kagit,"(9,40,173)"
+4-kontrol,lamba,ort RGB masa sol,"(169.3,118.6,80.0)"
+4-kontrol,lamba,medyan HSV masa sol,"(13,134,170)"
+4-kontrol,lamba,ort RGB masa sag ust,"(183.8,150.2,119.1)"
+4-kontrol,lamba,medyan HSV masa sag ust,"(15,89,186)"
+5,normal,RGB maske alan oranı %,43.75
+5,golge,RGB maske alan oranı %,43.2
+5,lamba,RGB maske alan oranı %,53.51
+5,normal,HSV maske alan oranı %,5.99
+5,golge,HSV maske alan oranı %,5.53
+5,lamba,HSV maske alan oranı %,4.69
+6,özgün,ortalama,147.56
+6,özgün,255'teki değer %,0.07
+6,b=+40,ortalama,186.72
+6,b=+40,255'teki değer %,7.14
+6,γ=0.5,ortalama,190.8
+6,γ=0.5,255'teki değer %,0.07
+6,γ=2.0,ortalama,94.04
+6,γ=2.0,255'teki değer %,0.07
+6,b=+40,kırpılan kanal değeri %,6.86
+7,INTER_NEAREST,geri büyütme MAE,14.68
+7,INTER_AREA,geri büyütme MAE,11.34
